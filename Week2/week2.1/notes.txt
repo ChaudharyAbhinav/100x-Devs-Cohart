@@ -1,0 +1,13 @@
+//express -> npm i express
+
+//query params
+const params=req.query.params
+
+url/route?params=value&param2=value2
+
+url/route/method
+
+put
+get
+delete
+
